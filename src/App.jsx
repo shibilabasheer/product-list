@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Product from './components/Product';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import "./css/product.css";
+import "./css/Product.css";
 import Header from './components/header';
 
 function App() {
