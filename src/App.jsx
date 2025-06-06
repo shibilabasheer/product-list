@@ -4,7 +4,7 @@ import Product from './components/Product';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import "./css/Product.css";
-import Header from './components/header';
+import Header from './components/Header';
 
 function App() {
 
