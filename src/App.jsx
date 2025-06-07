@@ -298,7 +298,7 @@ function App() {
             )}
         </Row>
       </Container>
-      <Footer onNameSearch={handleNameSearch} onCatgeorySearch={handleCategorySearch} onSort={handleSort} />
+      <Footer />
     </>
   )
 }
