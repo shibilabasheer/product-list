@@ -12,7 +12,7 @@ function Footer() {
           </Col>
           <Col md={6} className="text-md-end">
             <a href="#" className="text-light text-decoration-none me-5">Privacy Policy</a>
-            <a href="#" className="text-light text-decoration-none">Terms of Use</a>
+            <a href="#" className="text-light text-decoration-none">Terms & Conditions</a>
           </Col>
         </Row>
       </Container>
