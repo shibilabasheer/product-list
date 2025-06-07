@@ -5,6 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import "./css/Product.css";
 import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -297,6 +298,7 @@ function App() {
             )}
         </Row>
       </Container>
+      <Footer onNameSearch={handleNameSearch} onCatgeorySearch={handleCategorySearch} onSort={handleSort} />
     </>
   )
 }
